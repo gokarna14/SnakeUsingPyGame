@@ -1,6 +1,6 @@
 # SnakeUsingPyGame
 
-DOWNLOAD THE #main.py file, observe the sample.jpg
+DOWNLOAD THE main.py file, observe the sample.jpg
 
 # Hello From Prabas Gokarna Adhikari
 # Thank you for visiting my YouTube
