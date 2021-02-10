@@ -1,5 +1,7 @@
 # SnakeUsingPyGame
 
+DOWNLOAD THE main.py file, observe the sample.jpg
+
 # Hello From Prabas Gokarna Adhikari
 # Thank you for visiting my YouTube
 # If you have any inquiry feel free to reach me at: prabasruck@gmail.com or https://github.com/Gokarna-creator
